@@ -1,0 +1,7 @@
+gradio==6.5.1
+groq==1.0.0
+langchain_text_splitters==1.1.0
+neo4j==6.1.0
+pypdf==6.7.0
+python-dotenv==1.2.1
+sentence_transformers==5.2.2
